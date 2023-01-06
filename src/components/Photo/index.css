@@ -1,6 +1,6 @@
 .photo {
     background-position: left bottom;
-    background: url('../../images/cats.gif');
+    background: url('./images/cats.gif');
     opacity: 0.5;
     width: 26rem;
     height: 22rem;

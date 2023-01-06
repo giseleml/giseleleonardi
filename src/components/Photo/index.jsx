@@ -2,10 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Styles from './index.css';
 
-import github from '../../images/github.svg';
-import email from '../../images/email.svg';
-import codeFolder from '../../images/code.png';
-import twitter from '../../images/twitter.svg';
+import github from './images/github.svg';
+import email from './images/email.svg';
+import codeFolder from './images/code.png';
+import twitter from './images/twitter.svg';
 
 const Photo = ({ text, color, icons }) => (
   <div style={{ backgroundColor: color }} className={Styles.photo}>
