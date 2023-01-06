@@ -1,0 +1,13 @@
+body {
+  background-image: url("./images/background.gif");
+  background-repeat: repeat;
+}
+
+.info {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -1rem;
+  text-align: center;
+  /* the bottom margin is the negative value of the footer's height */
+}

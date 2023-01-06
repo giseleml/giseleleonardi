@@ -1,0 +1,19 @@
+.photo {
+    background-position: left bottom;
+    background: url('../../images/cats.gif');
+    opacity: 0.5;
+    width: 26rem;
+    height: 22rem;
+    margin-bottom: 3rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+    color: black;
+    text-align: end;
+    padding-right: 1rem;
+    white-space: pre-line;
+    line-height: 2.8rem;
+    cursor: default;
+}
