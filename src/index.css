@@ -9,5 +9,6 @@ body {
   height: 100%;
   margin: 0 auto -1rem;
   text-align: center;
-  /* the bottom margin is the negative value of the footer's height */
+  color: rgba(242, 161, 195, 255);
+  font-family: 'Montserrat Alternates', sans-serif;
 }
